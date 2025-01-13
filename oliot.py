@@ -11,7 +11,7 @@ import datetime
 
 
 class Student():
-    """A class for studen objects."""
+    """A class for student objects."""
 
     # Konstruktori-metodi eli olionmuodostin
     def __init__(self, name: str, group: str, dateOfBirth: str):
